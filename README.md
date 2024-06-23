@@ -10,4 +10,4 @@ Live Demo:  https://github.com/shivani1420/weather-website-/tree/main
 
 ## Show some :heart: and :star: the repo if you like the design.
 
-![WeatherApp] (https://github.com/shivani1420/weather-website-/blob/main/user%20image.png)
+![weather] (![alt text](<user image-1.png>))
